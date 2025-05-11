@@ -3,7 +3,8 @@ import requests
 from enum import Enum
 from typing import Dict
 
-BACKEND_URL = "http://localhost:8000"
+# BACKEND_URL = "http://localhost:8000"
+BACKEND_URL = "https://video-subtitle-generator-backend.onrender.com"
 
 # ─── Allowed Languages Enum and Mapping ────────────────────────────────
 class AllowedLanguage(str, Enum):
