@@ -61,7 +61,8 @@ Extract audio from video files, generate accurate subtitles in multiple language
 
 ## 🎬 Usage Guide
 
-1. **Open the Streamlit app** at `http://localhost:8501`.
+1. **Open the Streamlit app** at [`http://localhost:8501`](http://localhost:8501) (for local development)  
+   or try the **deployed app** at [https://video-sub-gen.streamlit.app/](https://video-sub-gen.streamlit.app/).
 2. **Generate Subtitles:**
 
    * Upload a video file (`.mp4`, `.mkv`, `.mov`).
@@ -124,3 +125,4 @@ See `LICENSE` for details.
 ## 🤝 Author
 
 Developed by [Sayrikey1](https://github.com/Sayrikey1)
+
