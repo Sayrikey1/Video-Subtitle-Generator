@@ -1,0 +1,11 @@
+sub-gen
+.env
+trash.txt
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite
+*.log
+*.egg-info
