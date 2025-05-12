@@ -1,0 +1,10 @@
+# .streamlit/config.toml
+[server]
+# Allow uploads up to 3072 MB (≈3 GB)
+maxUploadSize = 3072
+
+# Optionally, bind to all addresses and run on a custom port:
+# headless = true
+# enableCORS = false
+# port = 8501
+# address = "0.0.0.0"

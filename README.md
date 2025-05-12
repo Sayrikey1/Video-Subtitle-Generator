@@ -54,7 +54,7 @@ Extract audio from video files, generate accurate subtitles in multiple language
 5. **Launch the frontend app:**
 
    ```sh
-   streamlit run app.py
+   streamlit run frontend/app.py
    ```
 
 ---
